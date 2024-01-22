@@ -1,6 +1,9 @@
 # myapp
 
-A new Flutter project.
+- flutter pub get
+- flutter create .
+- flutter run (to run the project)
+- flutter doctor (if there are problems with dependencies)
 
 ## Getting Started
 
